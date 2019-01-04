@@ -1,0 +1,23 @@
+{
+    "workbench.colorTheme": "Solarized Light",
+    "window.zoomLevel": 2,
+    "git.autofetch": true,
+    "editor.wordWrap": "on",
+    "git.confirmSync": false,
+    "[javascript]": {
+        "editor.insertSpaces": true,
+        "editor.tabSize": 2
+    },
+    "[css]": {
+        "editor.insertSpaces": true,
+        "editor.tabSize": 2
+    },
+    "[html]": {
+        "editor.insertSpaces": true,
+        "editor.tabSize": 4
+    },
+    "[go]": {
+        "editor.insertSpaces": false,
+        "editor.tabSize": 8
+    }
+}
